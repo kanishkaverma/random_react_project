@@ -2,7 +2,7 @@
 
 # pocketbase setup 
 
-- run `./pocketbase_test serve' 
+- run `./pocketbase_test serve` 
 
 # react setup 
 
